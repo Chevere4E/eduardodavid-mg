@@ -65,7 +65,7 @@ export default class Home extends React.Component {
                         <div className="post-feed">
                            <header className="post-header">
                                 <h2 className="post-title">
-                                    <Link href={postUrl}>{title}</Link>
+                                     Eduardo David Muñoz Gonzalez
                                 </h2>
                                 <div className="post-meta">
                                     Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
