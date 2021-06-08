@@ -68,7 +68,7 @@ export default class Home extends React.Component {
                                      Eduardo David Muñoz Gonzalez
                                 </h2>
                                 <div className="post-meta">
-                                    Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                                    Ingeniero en Telemática
                                 </div>
                             </header>
                         </div>
