@@ -63,7 +63,14 @@ export default class Home extends React.Component {
                 <div id="content" className="site-content">
                     <main id="main" className="site-main inner">
                         <div className="post-feed">
-                           
+                           <header className="post-header">
+                                <h2 className="post-title">
+                                    <Link href={postUrl}>{title}</Link>
+                                </h2>
+                                <div className="post-meta">
+                                    Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                                </div>
+                            </header>
                         </div>
                     </main>
                     <Footer config={config} />
