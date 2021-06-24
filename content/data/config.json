@@ -15,7 +15,11 @@
                 "url": "/",
                 "style": "link"
             },
-             y formación académica
+             y formación académica{
+                "label": "Experiencia profesional",
+                "url": "/",
+                "style": "link"
+            },
             {
                 "label": "Cursos",
                 "url": "/#cursos",
