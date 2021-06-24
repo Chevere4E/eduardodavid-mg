@@ -29,7 +29,7 @@ form_fields:
 submit_label: Enviar Mensaje
 seo:
   title: Contactame
-  description: This is the contact page
+  description: Para contactar a Eduardo David
   extra:
     - name: 'og:type'
       value: website
