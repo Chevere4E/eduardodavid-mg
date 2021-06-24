@@ -25,7 +25,7 @@ form_fields:
   - input_type: checkbox
     name: consent
     label: >-
-      Entiendo que la informacion en este formulario .
+      Entiendo que la informacion en este formulario sera enviada para que .
 submit_label: Send Message
 seo:
   title: Get in Touch
