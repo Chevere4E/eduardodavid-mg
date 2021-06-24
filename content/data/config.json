@@ -21,11 +21,6 @@
                 "style": "link"
             },
             {
-                "label": "Cursos",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "Sobre mí",
                 "url": "/style-guide",
                 "style": "link"
