@@ -28,7 +28,7 @@ form_fields:
       Entiendo que la informacion en este formulario sera enviada para que pueda ser contactado de vuelta.
 submit_label: Enviar Mensaje
 seo:
-  title: Get in Touch
+  title: Contactame
   description: This is the contact page
   extra:
     - name: 'og:type'
