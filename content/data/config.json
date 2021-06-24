@@ -1,33 +1,33 @@
 {
-    "title": "Stackbit Fjord Theme",
+    "title": "Eduardo David Muñoz Gonzalez",
     "path_prefix": "/",
-    "palette": "yellow",
+    "palette": "lime",
     "header": {
-        "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
+        "title": "<lalo />",
+        "tagline": "creativo, proactivo y agradable",
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Fjord Logo",
+        "logo_img_alt": "Eduardo Developer",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Profesional & Academica",
+                "label": "Experiencia profesional y formación académica",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "Cursos",
                 "url": "/about",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Sobre mí",
+                "url": "/sobre-mi",
                 "style": "link"
             },
             {
-                "label": "Contact",
-                "url": "/contact",
+                "label": "Contacto",
+                "url": "/contacto",
                 "style": "link"
             }
         ],
