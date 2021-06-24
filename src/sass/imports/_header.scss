@@ -176,7 +176,7 @@
 
     .site-header-scroll {
         height: 100%;
-        overflow: auto;
+        overflow: hidden;
         -webkit-overflow-scrolling: touch;
         position: relative;
     }
