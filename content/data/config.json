@@ -1,12 +1,12 @@
 {
     "title": "Eduardo David Muñoz Gonzalez",
     "path_prefix": "/",
-    "palette": "lime",
+    "palette": "yellow",
     "header": {
         "title": "<lalo />",
         "tagline": "creativo, proactivo y agradable",
         "logo_img": "images/logo.svg",
-        "logo_img_alt": "Eduardo Developer",
+        "logo_img_alt": "Eduardo",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
