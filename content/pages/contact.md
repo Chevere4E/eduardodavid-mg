@@ -5,7 +5,7 @@ form_id: contactForm
 form_action: /success
 form_fields:
   - input_type: text
-    name: Nombre
+    name: name
     label: Nombre
     default_value: Ej. Fulanito Perez
     is_required: true
@@ -15,7 +15,7 @@ form_fields:
     default_value: Ej. fulanitop@site.mx
     is_required: true
   - input_type: text
-    name: Asunto
+    name: subject
     label: Subject
     default_value: Please select
     options:
