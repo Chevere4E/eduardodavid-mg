@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Eduardo David MG
-  description: The preview of the Fjord theme
+  description: Pagina personal y CV de Eduardo David
   extra:
     - name: 'og:type'
       value: website
