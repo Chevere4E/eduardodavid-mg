@@ -22,12 +22,12 @@
             },
             {
                 "label": "Sobre mí",
-                "url": "/sobre-mi",
+                "url": "/style-guide",
                 "style": "link"
             },
             {
                 "label": "Contacto",
-                "url": "/contacto",
+                "url": "/contact",
                 "style": "link"
             }
         ],
