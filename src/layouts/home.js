@@ -71,26 +71,6 @@ export default class Home extends React.Component {
                                      Eduardo David Muñoz Gonzalez
                                 </h2>
                                 
-                                <div className="post-meta">
-                                    Experiencia Profesional
-                                </div>
-                                <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
-                                <div className="post-meta">
-                                    Formación Académica
-                                    <a name="formacion-academica"></a>
-                                </div>
-                                <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
-                                <div className="post-meta">
-                                    Cursos
-                                    <a name="cursos"></a>
-                                </div>
-                                <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
-                                <div className="post-meta">
-                                    Sobre mí
-                                    <a name="sobre-mi"></a>
-                                </div>
-                                <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
-                                
                             </header>
                         </div>
                     </main>
