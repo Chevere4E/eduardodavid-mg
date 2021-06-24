@@ -26,7 +26,7 @@ form_fields:
     name: consent
     label: >-
       Entiendo que la informacion en este formulario sera enviada para que pueda ser contactado de vuelta.
-submit_label: Send Message
+submit_label: Enviar Mensaje
 seo:
   title: Get in Touch
   description: This is the contact page
