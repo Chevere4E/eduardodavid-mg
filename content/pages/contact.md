@@ -1,6 +1,6 @@
 ---
 title: Contactame
-img_path: images/header-me.jpg
+img_path: /images/header-blackC.jpg
 form_id: contactForm
 form_action: /success
 form_fields:
@@ -25,7 +25,8 @@ form_fields:
   - input_type: checkbox
     name: consent
     label: >-
-      Entiendo que la informacion en este formulario sera enviada para que pueda ser contactado de vuelta.
+      Entiendo que la informacion en este formulario sera enviada para que pueda
+      ser contactado de vuelta.
 submit_label: Enviar Mensaje
 seo:
   title: Contactame
