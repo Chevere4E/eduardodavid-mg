@@ -1,6 +1,6 @@
 ---
 title: Contactame
-img_path: images/contact.jpg
+img_path: images/header-me.jpg
 form_id: contactForm
 form_action: /success
 form_fields:
