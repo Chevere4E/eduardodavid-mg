@@ -47,7 +47,7 @@
             },
             {
                 "label": "Gmail",
-                "url": "https://www.instagram.com/",
+                "url": "mailto:elcorreoquequieres@correo.com",
                 "style": "icon",
                 "icon_class": "gmail",
                 "new_window": true
