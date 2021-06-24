@@ -42,7 +42,7 @@
                 "label": "Whatsapp",
                 "url": "https://twitter.com/",
                 "style": "icon",
-                "icon_class": "whatsapp-square",
+                "icon_class": "phone",
                 "new_window": true
             },
             {
