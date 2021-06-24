@@ -39,10 +39,10 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "whatsapp",
+                "label": "Whatsapp",
                 "url": "https://twitter.com/",
                 "style": "icon",
-                "icon_class": "twitter",
+                "icon_class": "whatsapp",
                 "new_window": true
             },
             {
