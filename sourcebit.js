@@ -36,6 +36,7 @@ module.exports = {
                 flattenAssetUrls: true,
                 pages: [
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'home') },
+                    { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'cursos') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'contact') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'page') },
                     { path: '/{__metadata.urlPath}', predicate: _.matchesProperty('__metadata.modelName', 'post') }
