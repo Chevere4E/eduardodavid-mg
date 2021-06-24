@@ -7,7 +7,7 @@ seo:
   robots: []
   extra: []
   type: stackbit_page_meta
-layout: page
+layout: cursos
 ---
 ## Lorem ipsum
 
