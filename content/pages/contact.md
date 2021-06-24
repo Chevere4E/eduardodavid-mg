@@ -7,7 +7,7 @@ form_fields:
   - input_type: text
     name: Nombre
     label: Nombre
-    default_value: 
+    default_value: Ej. Fulanito Perez
     is_required: true
   - input_type: email
     name: email
