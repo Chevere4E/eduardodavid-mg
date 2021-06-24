@@ -70,8 +70,8 @@ export default class Home extends React.Component {
                                 <h2 className="post-title">
                                      Eduardo David Muñoz Gonzalez
                                 </h2>
-                                
                             </header>
+                            
                         </div>
                     </main>
                     <Footer config={config} />
