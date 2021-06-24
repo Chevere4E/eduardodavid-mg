@@ -15,7 +15,7 @@ form_fields:
     default_value: Ej. fulanitop@site.mx
     is_required: true
   - input_type: text
-    name: subject
+    name: Asunto
     label: Subject
     default_value: Please select
     options:
