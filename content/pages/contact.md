@@ -18,10 +18,6 @@ form_fields:
     name: subject
     label: Asunto
     default_value: Please select
-    options:
-      - Error on the site
-      - Sponsorship
-      - Other
   - input_type: textarea
     name: message
     label: Message
