@@ -17,7 +17,7 @@ form_fields:
   - input_type: text
     name: subject
     label: Asunto
-    default_value: Please select
+    default_value: Ej. 
   - input_type: textarea
     name: message
     label: Message
