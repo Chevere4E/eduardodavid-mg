@@ -17,12 +17,12 @@
             },
             {
                 "label": "Cursos",
-                "url": "#cursos",
+                "url": "/#cursos",
                 "style": "link"
             },
             {
                 "label": "Sobre mí",
-                "url": "#sobre-mi",
+                "url": "/#sobre-mi",
                 "style": "link"
             },
             {
