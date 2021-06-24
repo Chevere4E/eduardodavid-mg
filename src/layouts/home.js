@@ -76,6 +76,12 @@ export default class Home extends React.Component {
                                     Cursos
                                     <a name="curos"></a>
                                 </div>
+                                <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
+                                <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
+                                <div className="post-meta">
+                                    Cursos
+                                    <a name="curos"></a>
+                                </div>
                             </header>
                         </div>
                     </main>
