@@ -7,7 +7,7 @@ import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { getPageUrl, Link, withPrefix } from '../utils';
 
-export default class Home extends React.Component {
+export default class Cursos extends React.Component {
     renderPost(post, index, hasMoreLink, moreLinkText) {
         const title = _.get(post, 'title');
         const thumbImage = _.get(post, 'thumb_img_path');
