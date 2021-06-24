@@ -271,7 +271,7 @@
 
     .site-header-scroll {
         height: 100%;
-        overflow: auto;
+        overflow: inherit;
         -webkit-overflow-scrolling: touch;
         position: relative;
     }
