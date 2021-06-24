@@ -67,10 +67,10 @@
                 "new_window": true
             },
             {
-                "label": "DEV",
+                "label": "Facebook",
                 "url": "https://dev.to/",
                 "style": "icon",
-                "icon_class": "dev",
+                "icon_class": "fecabook",
                 "new_window": true
             }
         ]
