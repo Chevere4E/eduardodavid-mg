@@ -3,7 +3,7 @@ title: Home
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: Eduardo David MG
+  title: Eduardo David
   description: Pagina personal y CV de Eduardo David
   extra:
     - name: 'og:type'
