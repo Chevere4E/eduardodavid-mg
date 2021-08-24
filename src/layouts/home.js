@@ -74,7 +74,7 @@ export default class Home extends React.Component {
                             </header>
                             
                             <div className="col-12 col-sm-12 col-md-3">
-                                <div class="card text-white bg-secondary mb-3" style={{max-width: '18rem'}}>
+                                <div class="card text-white bg-secondary mb-3" style={{'max-width': '18rem'}}>
                                     <div class="card-header">Header</div>
                                     <div class="card-body">
                                         <h5 class="card-title">Secondary card title</h5>
