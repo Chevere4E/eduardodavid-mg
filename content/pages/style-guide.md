@@ -1,13 +1,11 @@
 ---
 title: Eduardo David - CV
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  Pagina personal y CV de Eduardo David.
 img_path: /images/header-2.jpg
 seo:
   title: Eduardo David - CV
-  description: A reference for suggested typographic treatment and styles for your content
+  description: Pagina personal y CV de Eduardo David.
   extra:
     - name: 'og:type'
       value: website
