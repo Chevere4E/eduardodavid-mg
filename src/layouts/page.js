@@ -29,7 +29,7 @@ export default class Page extends React.Component {
                             
                         <div className="post-meta">
                             Formación Académica
-                            <a name="mis-proyectos"></a>
+                            <a name="formacion-academica"></a>
                         </div>
 
 
