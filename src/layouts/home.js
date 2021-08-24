@@ -63,7 +63,8 @@ export default class Home extends React.Component {
                 <div id="content" className="site-content">
                     <main id="main" className="site-main inner">
                         <div className="post-feed">
-                           <header className="post-header">
+                            <a name="sobre-mi"></a>
+                            <header className="post-header">
                                <span className="post-meta">
                                     Ingeniero en Telemática
                                 </span> 
