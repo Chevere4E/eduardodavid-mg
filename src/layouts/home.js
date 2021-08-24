@@ -74,6 +74,11 @@ export default class Home extends React.Component {
                             </header>
                             
                             <div className="col-12 col-sm-12 col-md-3"></div>
+                            <div className="col-12 col-sm-12 col-md-3"></div>
+                            <div className="col-12 col-sm-12 col-md-3"></div>
+                            <div className="col-12 col-sm-12 col-md-3"></div>
+                            <div className="col-12 col-sm-12 col-md-3"></div>
+                            <div className="col-12 col-sm-12 col-md-3"></div>
 
                             <div className="post-meta">
                                 Sobre mi
