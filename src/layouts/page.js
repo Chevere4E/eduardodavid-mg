@@ -23,7 +23,7 @@ export default class Page extends React.Component {
                 <div id="content" className="site-content">
                     <main id="main" className="site-main inner">
                         <div className="post-meta">
-                            Experiencia Profecional
+                            Experiencia Profesional
                         </div>
 
 
