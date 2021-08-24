@@ -28,7 +28,7 @@ export default class Page extends React.Component {
                          <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
                             
                         <div className="post-meta">
-                            Mis Proyectos
+                            Formación Académica
                             <a name="mis-proyectos"></a>
                         </div>
 
