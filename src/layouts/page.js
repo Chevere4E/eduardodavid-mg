@@ -22,6 +22,7 @@ export default class Page extends React.Component {
                 <Header config={config} page={page} image={headerImage} />
                 <div id="content" className="site-content">
                     <main id="main" className="site-main inner">
+                    Hola soy lalo
                         <article className="post page post-full">
                             <header className="post-header">
                                 <h1 className="post-title">{title}</h1>
