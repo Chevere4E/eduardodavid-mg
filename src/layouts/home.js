@@ -73,7 +73,7 @@ export default class Home extends React.Component {
                                 </h2>
                             </header>
                             
-                            <div>
+                            <div className="col-12 col-sm-12 col-md-3"></div>
 
                             <div className="post-meta">
                                 Sobre mi
