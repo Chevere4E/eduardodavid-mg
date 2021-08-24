@@ -72,7 +72,9 @@ export default class Body extends React.Component {
                     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
 
                     {favicon && <link rel="icon" href={withPrefix(favicon)} />}
-                    <body className={classNames(`palette-${palette}`)} />
+                    <body className={classNames(`palette-${palette}`)}>
+                    
+                    </body>
                 </Helmet>
                 <div id="page" className="site">
                     {this.props.children}
