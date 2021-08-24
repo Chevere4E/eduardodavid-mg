@@ -25,6 +25,12 @@ export default class Page extends React.Component {
                         <div className="post-meta">
                             Experiencia Profesional
                         </div>
+                         <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
+                            
+                        <div className="post-meta">
+                            Mis Proyectos
+                            <a name="mis-proyectos"></a>
+                        </div>
 
 
                         <article className="post page post-full">
