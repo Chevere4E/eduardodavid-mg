@@ -73,7 +73,7 @@ export default class Home extends React.Component {
                             </header>
 
                             <div className="post-meta">
-                                Experiencia Profesional
+                                Sobre mi
                             </div>
                             <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
                             <div className="post-meta">
