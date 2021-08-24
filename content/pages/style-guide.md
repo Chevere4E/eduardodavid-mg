@@ -1,6 +1,6 @@
 ---
 title: Eduardo David - CV
-subtitle:
+subtitle: >-
   Pagina personal y CV de Eduardo David.
 img_path: /images/header-2.jpg
 seo:
