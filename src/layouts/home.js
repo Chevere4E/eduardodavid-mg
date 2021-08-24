@@ -81,17 +81,7 @@ export default class Home extends React.Component {
                                 <a name="mis-proyectos"></a>
                             </div>
                             <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
-                            <div className="post-meta">
-                                Cursos
-                                <a name="cursos"></a>
-                            </div>
-                            <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
-                            <div className="post-meta">
-                                Sobre mí
-                                <a name="sobre-mi"></a>
-                            </div>
-                            <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
-                                
+                             
                         </div>
                     </main>
                     <Footer config={config} />
