@@ -74,7 +74,6 @@ export default class Home extends React.Component {
 
                             <div className="post-meta">
                                 Sobre mi
-                                <a name="sobre-mi"></a>
                             </div>
                             <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
                             
