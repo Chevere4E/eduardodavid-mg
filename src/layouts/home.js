@@ -201,8 +201,7 @@ export default class Home extends React.Component {
                                             <p class="card-text">
                                                 Desarrollo con PHP y Laravel de la pagina web y sistema
                                                 de reservas para el Hotel Hive.<br />
-                                                -Cumplimiento del 100% de los objetivos y funcionalidades.<br />
-                                                -Desarrollo 100% responsivo.
+                                                -Participacion en el desarrollo 80%
                                             </p>
                                             <h5 class="card-title">
                                                 <a href="https://labtak.takflics.com/home" className="text-info">
