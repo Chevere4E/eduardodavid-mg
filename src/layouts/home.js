@@ -155,7 +155,8 @@ export default class Home extends React.Component {
                                 </div>
                                 <div className="col-12 mt-3">
                                     <p>
-                                        En de.
+                                        Como parte de mi de mis labores en THOI Agency estruture, maquete y
+                                        .
                                     </p>
                                 </div>
                                 <div className="col-12 col-sm-12 col-md-6">
