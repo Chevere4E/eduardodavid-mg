@@ -167,6 +167,7 @@ export default class Home extends React.Component {
                                             <p class="card-text">
                                                 Desarrollo con PHP y Laravel de la pagina para el corporativo 
                                                 Uptown 2. Implementacion de libreria Revolution Slider.
+                                                
                                             </p>
                                             <h5 class="card-title">
                                                 <a href="https://labtak.takflics.com/home" className="text-info">
