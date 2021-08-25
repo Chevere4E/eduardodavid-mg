@@ -154,7 +154,7 @@ export default class Home extends React.Component {
                                     </div>
                                 </div>
                                 <div className="col-12 mt-3">
-                                    <p>
+                                    <p className="h6 fw-bold">
                                         Como parte de mi de mis labores en THOI Agency estruture, maquete y
                                         adapate templates HTML para desarrollar SPA de diversos clientes. 
                                         A continuacion algunos de los desarollos en los que participe.
