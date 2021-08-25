@@ -113,7 +113,7 @@ export default class Home extends React.Component {
                                 <div className="col-12 col-sm-12 col-md-6">
                                     <div class="card border-info mb-3 mb-3">
                                         <div class="card-header">Header</div>
-                                        <div class="card-body">
+                                        <div class="card-body text-info">
                                             <h5 class="card-title">Secondary card title</h5>
                                             <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                         </div>
