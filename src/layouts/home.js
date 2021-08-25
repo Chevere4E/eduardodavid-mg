@@ -112,7 +112,7 @@ export default class Home extends React.Component {
                             <div className="mt-3">
                                 <p>
                                     Como parte de mi experiencia laboral, he sido parte de diversos desarrollos.
-                                    Siendo el mas reciente con la empresa INOMA C.A. donde forme parte del 80%-100%
+                                    Siendo el mas reciente con la empresa INOMA C.A. donde forme parte del 90%-100%
                                     del desarrollo de cada proyecto.
                                 </p>
                             </div>
