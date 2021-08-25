@@ -199,7 +199,7 @@ export default class Home extends React.Component {
                                         <div class="card-header">El cielo Tulum</div>
                                         <div class="card-body text-dark">
                                             <p class="card-text">
-                                                Desarrollo con PHP y Laravel de la pagina para sistemas
+                                                Desarrollo con PHP y Laravel de la pagina web y sistema
                                                 de reservas para el Hotel Hive.<br />
                                                 -Cumplimiento del 100% de los objetivos y funcionalidades.<br />
                                                 -Desarrollo 100% responsivo.
