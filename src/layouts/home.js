@@ -76,8 +76,7 @@ export default class Home extends React.Component {
                             <div className="post-meta">
                                 Sobre mi
                             </div>
-                            
-
+                            <blockquote></blockquote>
                             <div className="row">
                                 <div className="col-12 col-sm-12 col-md-6">
                                     <div class="card text-white bg-secondary mb-3">
