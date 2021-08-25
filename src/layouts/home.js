@@ -141,7 +141,7 @@ export default class Home extends React.Component {
                                         <div class="card-body text-dark">
                                             <p class="card-text">
                                                 Desarrollo con Wordpress y Elementor de la pagina corporativa de INOMA.
-                                                Implementacion de traductor <br />
+                                                Implementacion de traductor al ingles.<br />
                                                 -Cumplimiento del 100% de los objetivos y funcionalidades.<br />
                                                 -Desarrollo 100% responsivo.
                                             </p>
