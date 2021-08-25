@@ -216,8 +216,8 @@ export default class Home extends React.Component {
                                         <div class="card-header">Accra Tulum</div>
                                         <div class="card-body text-dark">
                                             <p class="card-text">
-                                                Desarrollo con PHP y Laravel de la pagina web y sistema
-                                                de reservas para el Hotel El cielo.<br />
+                                                Desarrollo con PHP y Laravel de la pagina web y mapa interactivo de
+                                                la <br />
                                                 -Participacion en el desarrollo 85%
                                             </p>
                                             <h5 class="card-title">
