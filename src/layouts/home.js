@@ -123,7 +123,7 @@ export default class Home extends React.Component {
                                         <div class="card-body text-info">
                                             <p class="card-text">
                                                 Desarrollo con Angular del sistema para la generacion de reportes, modulo
-                                                de Blog, Foro, capacitaciones (weninar y moocs)
+                                                de Blog, Foro, capacitaciones (webinar y moocs)
                                             </p>
                                             <h5 class="card-title">
                                                 <a href="https://labtak.takflics.com/home" className="text-info">
