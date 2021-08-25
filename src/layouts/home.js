@@ -146,7 +146,7 @@ export default class Home extends React.Component {
                                             </p>
                                             <h5 class="card-title">
                                                 <a href="https://labtak.takflics.com/home" className="text-info">
-                                                https://labtak.takflics.com/
+                                                https://dev.inoma.mx/
                                                 </a>
                                             </h5>
                                         </div>
