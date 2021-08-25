@@ -109,7 +109,7 @@ export default class Home extends React.Component {
                                 Mis Proyectos
                                 <a name="mis-proyectos"></a>
                             </div>
-                            <div>
+                            <div className="mt-3">
                                 <p>
                                     Como parte de mi experiencia laboral, he sido parte de 
                                 </p>
