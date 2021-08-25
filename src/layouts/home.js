@@ -72,11 +72,7 @@ export default class Home extends React.Component {
                                      Eduardo David Muñoz Gonzalez
                                 </h2>
                             </header>
-                            ## Quoting
-
-The HTML blockquote element defines a long block quotation in the HTML document from another source.
-
->“Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.” <cite>― Scott Adams</cite>
+                            
                             <div className="row">
                                 <div className="col-12 col-sm-12 col-md-6">
                                     <div class="card text-white bg-secondary mb-3">
