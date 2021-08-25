@@ -108,7 +108,7 @@ export default class Home extends React.Component {
                                     <img src="/images/copenague-1.jpeg" alt="Copenague, Dinamarca" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/copenague-2.jpeg" alt="Copenague, Dinamarca" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/estonia-1.jpeg" alt="Tallin, Estonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/florencia-1.jpeg" alt="Amsterdam, Holanda" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/florencia-1.jpeg" alt="Florencia, Italia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/amsterdam-1.jpeg" alt="Amsterdam, Holanda" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/amsterdam-1.jpeg" alt="Amsterdam, Holanda" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/amsterdam-1.jpeg" alt="Amsterdam, Holanda" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
