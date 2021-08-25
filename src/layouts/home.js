@@ -85,7 +85,7 @@ export default class Home extends React.Component {
 
                             
                             <div className="row">
-                                <div className="col-12 col-sm-12 col-md-6">
+                                <div className="col-12">
                                     <p>
                                     Soy chico de 24 nacido en la ciudad de mexico, cuyos mejores amigos son de Léon,
                                     Toluca, Puerto Vallarta, con mi novia en Ocotlán, Jalisco. Como se podran imaginar
