@@ -88,7 +88,7 @@ export default class Home extends React.Component {
                                 <div className="col-12 col-sm-12 col-md-6">
                                     <p>
                                     Soy chico de 24 nacido en la ciudad de mexico, cuyos mejores amigos son de Léon
-                                    , Toluca y Puerto Vallarta
+                                    , Toluca y Puerto Vallarta, con una novia 
                                     </p>
                                 </div>
                             </div>
