@@ -121,7 +121,7 @@ export default class Home extends React.Component {
                                     <img src="/images/riga-6.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/riga-7.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/riga-8.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/venecia-1.jpeg" alt="Venecia, Italia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                 </div>
                             </div>
 
