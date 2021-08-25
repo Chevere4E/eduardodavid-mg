@@ -122,8 +122,7 @@ export default class Home extends React.Component {
                                         <div class="card-header">Sistema LabTak</div>
                                         <div class="card-body text-info">
                                             <p class="card-text">
-                                                Some quick example text to build on the card title and make up the
-                                                 bulk of the card's content.
+                                                Desarrollo en Angular 
                                             </p>
                                             <h5 class="card-title">
                                                 <a href="https://labtak.takflics.com/home" className="text-info">
