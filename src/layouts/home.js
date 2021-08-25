@@ -79,7 +79,7 @@ export default class Home extends React.Component {
                             <blockquote>
                                 <p>
                                     El diseño es inteligencia que se hace visible
-                                    <cite>Alina Wheeler</cite>
+                                    <cite>-Alina Wheeler</cite>
                                 </p>
                             </blockquote>
                             <div className="row">
