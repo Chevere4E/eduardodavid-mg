@@ -109,7 +109,7 @@ export default class Home extends React.Component {
                                 Mis Proyectos
                                 <a name="mis-proyectos"></a>
                             </div>
-                            <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
+                            
                              
                         </div>
                     </main>
