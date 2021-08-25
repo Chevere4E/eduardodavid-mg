@@ -204,8 +204,8 @@ export default class Home extends React.Component {
                                                 -Participacion en el desarrollo 85%
                                             </p>
                                             <h5 class="card-title">
-                                                <a href="https://hivecancun.com/" className="text-info">
-                                                https://hivecancun.com/
+                                                <a href="https://elcielotulum.com/" className="text-info">
+                                                https://elcielotulum.com/
                                                 </a>
                                             </h5>
                                         </div>
