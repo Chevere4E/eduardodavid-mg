@@ -114,13 +114,13 @@ export default class Home extends React.Component {
                                     <img src="/images/pisa-1.jpeg" alt="Pisa, Italia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/praga-1.jpeg" alt="Praga, Republica Checa" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-2.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-3.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-4.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-5.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-6.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-7.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-8.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                 </div>
                             </div>
