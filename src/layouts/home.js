@@ -92,7 +92,8 @@ export default class Home extends React.Component {
                                     disfruto mucho de viajar y pasearme.<br /><br />
                                     Amante del baseball, futbol (americano y soccer), la musica Punk y de la banda como
                                     de que no, fierro!.<br /><br />
-                                    No sere el mejor fotografo pero disfruto mucho de 
+                                    No sere el mejor fotografo pero disfruto mucho de fotografiar lugares iconicos de 
+                                    
                                     </p>
                                 </div>
                             </div>
