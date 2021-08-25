@@ -218,7 +218,7 @@ export default class Home extends React.Component {
                                             <p class="card-text">
                                                 Desarrollo con PHP y Laravel de la pagina web y mapa interactivo de
                                                 la <br />
-                                                -Participacion en el desarrollo 85%
+                                                -Participacion en el desarrollo 60%
                                             </p>
                                             <h5 class="card-title">
                                                 <a href="https://labtak.takflics.com/home" className="text-info">
