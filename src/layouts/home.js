@@ -124,7 +124,8 @@ export default class Home extends React.Component {
                                             <p class="card-text">
                                                 Desarrollo con Angular del sistema para la generacion de reportes, modulo
                                                 de Blog, Foro, capacitaciones (webinar y moocs).<br />
-                                                -Cumplimiento del 100% de los objetivos y funcionalidades.
+                                                -Cumplimiento del 100% de los objetivos y funcionalidades.<br />
+                                                -Desarrollo 100% responsivo.
                                             </p>
                                             <h5 class="card-title">
                                                 <a href="https://labtak.takflics.com/home" className="text-info">
