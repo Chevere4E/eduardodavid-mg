@@ -111,7 +111,7 @@ export default class Home extends React.Component {
                             </div>
                             <div>
                                 <p>
-                                    
+                                    Como parte de mi experiencia laboral, he sido parte de 
                                 </p>
                             </div>
                             <div className="row mt-4">
