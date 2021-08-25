@@ -125,7 +125,7 @@ export default class Home extends React.Component {
                                 </div>
                             </div>
 
-                            <div className="post-meta">
+                            <div className="post-meta mt-5">
                                 Mis Proyectos
                                 <a name="mis-proyectos"></a>
                             </div>
