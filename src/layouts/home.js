@@ -68,9 +68,9 @@ export default class Home extends React.Component {
                                <span className="post-meta">
                                     Ingeniero en Telemática
                                 </span> 
-                                <h2 className="post-title">
+                                <p className="post-title">
                                      Eduardo David Muñoz Gonzalez
-                                </h2>
+                                </p>
                             </header>
                             
                             
@@ -78,7 +78,7 @@ export default class Home extends React.Component {
                             <div className="post-meta">
                                 Sobre mi
                             </div>
-                            
+
                             <div className="row">
                                 <div className="col-12 col-sm-12 col-md-6">
                                     <div class="card text-white bg-secondary mb-3">
