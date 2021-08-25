@@ -73,7 +73,7 @@ export default class Home extends React.Component {
                                 </p>
                             </header>
                         
-                            <div className="post-meta">
+                            <div>
                                 Sobre mi
                             </div>
                             <blockquote>
@@ -83,7 +83,7 @@ export default class Home extends React.Component {
                                 </p>
                             </blockquote>
 
-                            
+
                             <div className="row">
                                 <div className="col-12 col-sm-12 col-md-6">
                                     <div class="card text-white bg-secondary mb-3">
