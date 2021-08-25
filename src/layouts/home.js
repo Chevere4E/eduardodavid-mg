@@ -123,7 +123,7 @@ export default class Home extends React.Component {
                                         <div class="card-body text-info">
                                             <h5 class="card-title">
                                                 <a href="https://labtak.takflics.com/home" className="text-info">
-                                                [https://labtak.takflics.com/]
+                                                https://labtak.takflics.com/
                                                 </a>
                                             </h5>
                                             <p class="card-text">
