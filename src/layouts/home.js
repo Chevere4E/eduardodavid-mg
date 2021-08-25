@@ -235,7 +235,7 @@ export default class Home extends React.Component {
                                             <p class="card-text">
                                                 Desarrollo con PHP y Laravel de la pagina web y sistema
                                                 de reservas para el Hotel Nuue.<br />
-                                                -Participacion en el desarrollo 85%
+                                                -Participacion en el desarrollo 65%
                                             </p>
                                             <h5 class="card-title">
                                                 <a href="https://labtak.takflics.com/home" className="text-info">
