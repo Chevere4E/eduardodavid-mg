@@ -217,7 +217,7 @@ export default class Home extends React.Component {
                                         <div class="card-body text-dark">
                                             <p class="card-text">
                                                 Desarrollo con PHP y Laravel de la pagina web y mapa interactivo de
-                                                la <br />
+                                                la zona Residencial Accra<br />
                                                 -Participacion en el desarrollo 60%
                                             </p>
                                             <h5 class="card-title">
