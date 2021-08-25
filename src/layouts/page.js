@@ -33,13 +33,7 @@ export default class Page extends React.Component {
                         </div>
                         <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
 
-                        <article className="post page post-full">
-                            <header className="post-header">
-                                <h1 className="post-title">{title}</h1>
-                            </header>
-                            {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
-                            {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
-                        </article>
+                        
                     </main>
                     <Footer config={config} />
                 </div>
