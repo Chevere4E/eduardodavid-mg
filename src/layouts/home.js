@@ -103,7 +103,7 @@ export default class Home extends React.Component {
                             </div>
                             <div className="row">
                                 <div className="col-12 text-center">
-                                    <img src="/images/header-me.jpg" alt="..." class="img-thumbnail" style={{'max-height':'200px'}}/>
+                                    <img src="/images/header-me.jpg" alt="..." class="img-thumbnail m-" style={{'max-height':'200px'}}/>
                                     <img src="/images/header-me.jpg" alt="..." class="img-thumbnail" style={{'max-height':'200px'}}/>
                                     <img src="/images/header-me.jpg" alt="..." class="img-thumbnail" style={{'max-height':'200px'}}/>
                                 </div>
