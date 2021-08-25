@@ -23,7 +23,7 @@ export default class Footer extends React.Component {
                         ))}
                     </div>
                 )}
-                <Link id="to-top" className="to-top" href="#page">pa'rriba <span className="icon-arrow-up" aria-hidden="true" /></Link>
+                <Link id="to-top" className="to-top" href="#page">Pa'rriba <span className="icon-arrow-up" aria-hidden="true" /></Link>
             </footer>
         );
     }
