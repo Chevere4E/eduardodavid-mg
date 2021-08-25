@@ -90,7 +90,7 @@ export default class Home extends React.Component {
                                     Soy un chico de 24 nacido en la ciudad de mexico, cuyos mejores amigos son de Léon,
                                     Toluca, Puerto Vallarta, y con mi novia en Ocotlán, Jalisco. Como se podran imaginar
                                     disfruto mucho de viajar y pasearme.<br /><br />
-                                    Amante del baseball, futbol americano y soccer, la musica Punk y de la banda como
+                                    Amante del baseball, futbol americano y del soccer, la musica Punk y de la banda como
                                     de que no, fierro!, la comida tradicional mexicana.<br /><br />
                                     No sere el mejor fotografo pero disfruto mucho de fotografiar los lugares que visito de 
                                     tal forma y proporcion que me sirvan para fondo de pantalla de mi celular. Aqui abajo
