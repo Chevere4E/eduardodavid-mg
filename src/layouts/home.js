@@ -91,7 +91,7 @@ export default class Home extends React.Component {
                                     Toluca, Puerto Vallarta, con mi novia en Ocotlán, Jalisco. Como se podran imaginar
                                     disfruto mucho de viajar y pasearme.<br />
                                     Amante del baseball, futbol (americano y soccer), la musica Punk y de la banda como
-                                    de que no.
+                                    de que no, fierro!.
                                     </p>
                                 </div>
                             </div>
