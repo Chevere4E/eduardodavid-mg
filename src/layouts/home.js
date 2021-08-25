@@ -145,7 +145,7 @@ export default class Home extends React.Component {
                                                 -Desarrollo 100% responsivo.
                                             </p>
                                             <h5 class="card-title">
-                                                <a href="https://labtak.takflics.com/home" className="text-info">
+                                                <a href="https://dev.inoma.mx/" className="text-info">
                                                 https://dev.inoma.mx/
                                                 </a>
                                             </h5>
