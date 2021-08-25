@@ -165,10 +165,8 @@ export default class Home extends React.Component {
                                         <div class="card-header">Corporativo Uptown</div>
                                         <div class="card-body text-dark">
                                             <p class="card-text">
-                                                Desarrollo con Angular y NodeJS del sistema para la generacion de reportes, modulo
-                                                de Blog, Foro, capacitaciones (webinars y moocs).<br />
-                                                -Cumplimiento del 100% de los objetivos y funcionalidades.<br />
-                                                -Desarrollo 100% responsivo.
+                                                Desarrollo con PHP y Laravel de la pagina para el corporativo 
+                                                Uptown 2. Implementacion de libreria Revolution Slider.
                                             </p>
                                             <h5 class="card-title">
                                                 <a href="https://labtak.takflics.com/home" className="text-info">
