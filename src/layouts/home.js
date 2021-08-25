@@ -93,7 +93,8 @@ export default class Home extends React.Component {
                                     Amante del baseball, futbol (americano y soccer), la musica Punk y de la banda como
                                     de que no, fierro!.<br /><br />
                                     No sere el mejor fotografo pero disfruto mucho de fotografiar lugares que visito de 
-                                    tal forma y proporcion que me sirvan para 
+                                    tal forma y proporcion que me sirvan para fondo de pantalla de mi celular. Aqui abajo
+                                    algunos ejemplos.
                                     </p>
                                 </div>
                             </div>
