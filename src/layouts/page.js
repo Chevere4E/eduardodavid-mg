@@ -31,7 +31,7 @@ export default class Page extends React.Component {
                             Formación Académica
                             <a name="formacion-academica"></a>
                         </div>
-
+                        <br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.<br />.
 
                         <article className="post page post-full">
                             <header className="post-header">
