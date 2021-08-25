@@ -86,13 +86,7 @@ export default class Home extends React.Component {
                             
                             <div className="row">
                                 <div className="col-12 col-sm-12 col-md-6">
-                                    <div class="card text-white bg-secondary mb-3">
-                                        <div class="card-header">Header</div>
-                                        <div class="card-body">
-                                            <h5 class="card-title">Secondary card title</h5>
-                                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                        </div>
-                                    </div>
+                                    
                                 </div>
                             </div>
                             <div className="row">
@@ -102,7 +96,7 @@ export default class Home extends React.Component {
                                     <img src="/images/header-me.jpg" alt="..." class="img-thumbnail m-2" style={{'max-height':'200px'}}/>
                                 </div>
                             </div>
-                            
+
                             <div className="post-meta">
                                 Mis Proyectos
                                 <a name="mis-proyectos"></a>
