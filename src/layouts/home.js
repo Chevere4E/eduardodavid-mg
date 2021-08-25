@@ -68,7 +68,7 @@ export default class Home extends React.Component {
                                <span className="post-meta">
                                     Ingeniero en Telemática
                                 </span> 
-                                <p className="post-title">
+                                <p className="post-title h1">
                                      Eduardo David Muñoz Gonzalez
                                 </p>
                             </header>
