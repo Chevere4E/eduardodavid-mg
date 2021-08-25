@@ -123,7 +123,7 @@ export default class Home extends React.Component {
                                         <div class="card-body text-info">
                                             <p class="card-text">
                                                 Desarrollo con Angular del sistema para la generacion de reportes, modulo
-                                                de Blog, Foro, capacitaciones (webinar y moocs).<br />
+                                                de Blog, Foro, capacitaciones (webinars y moocs).<br />
                                                 -Cumplimiento del 100% de los objetivos y funcionalidades.<br />
                                                 -Desarrollo 100% responsivo.
                                             </p>
