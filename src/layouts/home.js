@@ -91,7 +91,7 @@ export default class Home extends React.Component {
                                     Toluca, Puerto Vallarta, y con mi novia en Ocotlán, Jalisco. Como se podran imaginar
                                     disfruto mucho de viajar y pasearme.<br /><br />
                                     Amante del baseball, futbol americano y del soccer, de la musica Punk y de la banda como
-                                    de que no, fierro!, la comida tradicional mexicana y <br /><br />
+                                    de que no, fierro!, la comida tradicional mexicana y los conciertos.<br /><br />
                                     No sere el mejor fotografo pero disfruto mucho de fotografiar los lugares que visito de 
                                     tal forma y proporcion que me sirvan para fondo de pantalla de mi celular. Aqui abajo
                                     algunos ejemplos.
