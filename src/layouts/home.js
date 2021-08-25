@@ -139,26 +139,53 @@ export default class Home extends React.Component {
                                     <div class="card border-light  mb-3 mb-3 bs-card">
                                         <div class="card-header">INOMA C.A.</div>
                                         <div class="card-body text-dark">
-                                            <h5 class="card-title text-dark">Secondary card title</h5>
-                                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                            <p class="card-text">
+                                                Desarrollo con Angular y NodeJS del sistema para la generacion de reportes, modulo
+                                                de Blog, Foro, capacitaciones (webinars y moocs).<br />
+                                                -Cumplimiento del 100% de los objetivos y funcionalidades.<br />
+                                                -Desarrollo 100% responsivo.
+                                            </p>
+                                            <h5 class="card-title">
+                                                <a href="https://labtak.takflics.com/home" className="text-info">
+                                                https://labtak.takflics.com/
+                                                </a>
+                                            </h5>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-12 col-sm-12 col-md-6">
                                     <div class="card border-info mb-3 mb-3">
                                         <div class="card-header">Corporativo Uptown</div>
-                                        <div class="card-body text-info">
-                                            <h5 class="card-title text-info">Secondary card title</h5>
-                                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                        <div class="card-body text-dark">
+                                            <p class="card-text">
+                                                Desarrollo con Angular y NodeJS del sistema para la generacion de reportes, modulo
+                                                de Blog, Foro, capacitaciones (webinars y moocs).<br />
+                                                -Cumplimiento del 100% de los objetivos y funcionalidades.<br />
+                                                -Desarrollo 100% responsivo.
+                                            </p>
+                                            <h5 class="card-title">
+                                                <a href="https://labtak.takflics.com/home" className="text-info">
+                                                https://labtak.takflics.com/
+                                                </a>
+                                            </h5>
                                         </div>
                                     </div>
                                 </div>
                                 <div className="col-12 col-sm-12 col-md-6">
                                     <div class="card border-info mb-3 mb-3">
                                         <div class="card-header">Hive Cancun</div>
-                                        <div class="card-body text-info">
-                                            <h5 class="card-title text-info">Secondary card title</h5>
-                                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                        <div class="card-body text-dark">
+                                            <p class="card-text">
+                                                Desarrollo con Angular y NodeJS del sistema para la generacion de reportes, modulo
+                                                de Blog, Foro, capacitaciones (webinars y moocs).<br />
+                                                -Cumplimiento del 100% de los objetivos y funcionalidades.<br />
+                                                -Desarrollo 100% responsivo.
+                                            </p>
+                                            <h5 class="card-title">
+                                                <a href="https://labtak.takflics.com/home" className="text-info">
+                                                https://labtak.takflics.com/
+                                                </a>
+                                            </h5>
                                         </div>
                                     </div>
                                 </div>
