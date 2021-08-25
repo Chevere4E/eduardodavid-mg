@@ -109,6 +109,11 @@ export default class Home extends React.Component {
                                 Mis Proyectos
                                 <a name="mis-proyectos"></a>
                             </div>
+                            <div>
+                                <p>
+                                    
+                                </p>
+                            </div>
                             <div className="row mt-4">
                                 <div className="col-12 col-sm-12 col-md-6">
                                     <div class="card border-info mb-3 mb-3">
