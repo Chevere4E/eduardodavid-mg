@@ -182,8 +182,8 @@ export default class Home extends React.Component {
                                         <div class="card-header">Hive Cancun</div>
                                         <div class="card-body text-dark">
                                             <p class="card-text">
-                                                Desarrollo con Angular y NodeJS del sistema para la generacion de reportes, modulo
-                                                de Blog, Foro, capacitaciones (webinars y moocs).<br />
+                                                Desarrollo con PHP y Laravel de la pagina para el corporativo 
+                                                Uptown 2. Implementacion de libreria Revolution Slider.<br />
                                                 -Cumplimiento del 100% de los objetivos y funcionalidades.<br />
                                                 -Desarrollo 100% responsivo.
                                             </p>
