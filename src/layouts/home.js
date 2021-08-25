@@ -124,7 +124,7 @@ export default class Home extends React.Component {
                                     <img src="/images/venecia-1.jpeg" alt="Venecia, Italia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                 </div>
                             </div>
-
+                            <hr />
                             <div className="post-meta mt-5">
                                 Mis Proyectos
                                 <a name="mis-proyectos"></a>
