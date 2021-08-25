@@ -153,6 +153,13 @@ export default class Home extends React.Component {
                                         </div>
                                     </div>
                                 </div>
+                                <div className="mt-3">
+                                    <p>
+                                        Como parte de mi experiencia laboral, he sido parte de diversos desarrollos.
+                                        Siendo el mas reciente con la empresa INOMA C.A. donde forme parte del 90%-100%
+                                        del desarrollo de cada proyecto.
+                                    </p>
+                                </div>
                                 <div className="col-12 col-sm-12 col-md-6">
                                     <div class="card border-light  mb-3 mb-3 bs-card">
                                         <div class="card-header">Corporativo Uptown</div>
