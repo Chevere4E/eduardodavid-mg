@@ -12,7 +12,7 @@
         "nav_links": [
             {
                 "label": "Sobre mi",
-                "url": "/#sobre-mi",
+                "url": "/",
                 "style": "link"
             },
             {
