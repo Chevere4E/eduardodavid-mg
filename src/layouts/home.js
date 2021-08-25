@@ -239,7 +239,7 @@ export default class Home extends React.Component {
                                                 -Participacion en el desarrollo 65%
                                             </p>
                                             <h5 class="card-title">
-                                                <a href="https://labtak.takflics.com/home" className="text-info">
+                                                <a href="https://www.nueetulum.com/" className="text-info">
                                                 https://www.nueetulum.com/
                                                 </a>
                                             </h5>
