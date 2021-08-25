@@ -97,7 +97,13 @@ body {
 <iframe width="640" height="360" src="https://www.youtube.com/embed/wEG7x7jRhNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tables
-
+<article className="post page post-full">
+                            <header className="post-header">
+                                <h1 className="post-title">{title}</h1>
+                            </header>
+                            {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
+                            {markdownContent && <div className="post-content">{markdownify(markdownContent)}</div>}
+                        </article>
 <table>
   <caption>Simple table with caption and header</caption>
   <thead>
