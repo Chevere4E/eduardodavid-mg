@@ -100,7 +100,7 @@ export default class Home extends React.Component {
                             </div>
                             <div className="row">
                                 <div className="col-12 text-center">
-                                    <img src="/images/travels/amsterdam-1.jpeg" alt="Amsterdam, Holanda" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/travels/amsterdam-1.jpg" alt="Amsterdam, Holanda" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                 </div>
                             </div>
 
