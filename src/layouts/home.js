@@ -202,7 +202,7 @@ export default class Home extends React.Component {
                                                 Desarrollo con PHP y Laravel de la pagina web y sistema
                                                 de reservas para el Hotel El cielo. Implementacion de un Chatbot<br />
                                                 -Participacion en el desarrollo 85% <br />                                                
-                                                -
+                                                -coherencia en las respuestas del chat bot 
                                             </p>
                                             <h5 class="card-title">
                                                 <a href="https://elcielotulum.com/" className="text-info">
