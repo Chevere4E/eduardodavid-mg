@@ -200,8 +200,9 @@ export default class Home extends React.Component {
                                         <div class="card-body text-dark">
                                             <p class="card-text">
                                                 Desarrollo con PHP y Laravel de la pagina web y sistema
-                                                de reservas para el Hotel El cielo.<br />
-                                                -Participacion en el desarrollo 85%
+                                                de reservas para el Hotel El cielo. Implementacion de un Chatbot<br />
+                                                -Participacion en el desarrollo 85% <br />                                                
+                                                -
                                             </p>
                                             <h5 class="card-title">
                                                 <a href="https://elcielotulum.com/" className="text-info">
