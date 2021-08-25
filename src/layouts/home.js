@@ -110,7 +110,7 @@ export default class Home extends React.Component {
                                 <a name="mis-proyectos"></a>
                             </div>
                             <div className="mt-3">
-                                <p>
+                                <p className="h6 fw-bold">
                                     Como parte de mi experiencia laboral, he sido parte de diversos desarrollos.
                                     Siendo el mas reciente con la empresa INOMA C.A. donde forme parte del 90%-100%
                                     del desarrollo de cada proyecto.
