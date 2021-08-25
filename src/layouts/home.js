@@ -111,7 +111,7 @@ export default class Home extends React.Component {
                             </div>
                             <div className="row">
                                 <div className="col-12 col-sm-12 col-md-6">
-                                    <div class="card text-white bg-secondary mb-3">
+                                    <div class="card border-info mb-3 mb-3">
                                         <div class="card-header">Header</div>
                                         <div class="card-body">
                                             <h5 class="card-title">Secondary card title</h5>
