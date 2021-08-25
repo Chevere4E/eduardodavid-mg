@@ -172,7 +172,7 @@ export default class Home extends React.Component {
                                     </div>
                                 </div>
                                 <div className="col-12 col-sm-12 col-md-6">
-                                    <div class="card border-info mb-3 mb-3">
+                                    <div class="card border-light  mb-3 mb-3 bs-card">
                                         <div class="card-header">Hive Cancun</div>
                                         <div class="card-body text-dark">
                                             <p class="card-text">
