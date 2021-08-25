@@ -117,11 +117,11 @@ export default class Home extends React.Component {
                                     <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                     <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/amsterdam-1.jpeg" alt="Amsterdam, Holanda" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/amsterdam-1.jpeg" alt="Amsterdam, Holanda" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/amsterdam-1.jpeg" alt="Amsterdam, Holanda" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/amsterdam-1.jpeg" alt="Amsterdam, Holanda" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
-                                    <img src="/images/amsterdam-1.jpeg" alt="Amsterdam, Holanda" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
+                                    <img src="/images/riga-1.jpeg" alt="Riga, Letonia" class="img-thumbnail m-1" style={{'max-height':'250px'}}/>
                                 </div>
                             </div>
 
