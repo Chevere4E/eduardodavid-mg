@@ -86,8 +86,8 @@ export default class Home extends React.Component {
                             <div className="row">
                                 <div className="col-12">
                                     <p>
-                                    Soy un chico de 29 nacido en la ciudad de mexico, cuyos mejores amigos son de Léon,
-                                    Toluca, Puerto Vallarta, y con mi novia en Ocotlán, Jalisco. Como se podran imaginar
+                                    Soy un chico de 29 nacido en la Ciudad de México, cuyos mejores amigos son de Léon,
+                                    Toluca, Puerto Vallarta, y con mi esposa en Ocotlán, Jalisco. Como se podran imaginar
                                     disfruto mucho de viajar y pasearme.<br /><br />
                                     Amante del baseball, futbol americano y del soccer, de la musica Punk y de la banda como
                                     de que no, fierro!, la comida tradicional mexicana y los conciertos.<br /><br />
